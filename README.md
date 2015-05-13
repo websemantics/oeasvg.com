@@ -4,9 +4,7 @@ Website for [Oea.svg Framework](http://oeasvg.com), [Hotdraw.js](https://github.
 
 ![Oea.svg](https://raw.githubusercontent.com/websemantics/oeasvg.com/master/img/oea-svg.png)
 
-## Install
-
-Clone this repo and then run bower install.
+OEA.SVG
 
 ## Author
 
