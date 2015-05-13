@@ -1,0 +1,82 @@
+/*!
+ * Oea.svg Custom CSS - May 10, 2015
+ */
+
+/* Primary color - Grey : 7f8c8d; */
+/* Secondary color - Red : e45136; */
+/* Secondary color - Light Red : f46349; */
+
+/* Change logo size */
+
+.header-21-sub h3 img {
+  width: 200px;
+  height: 200px;
+}
+
+/* Change header top margin */
+.header-21 .navbar {
+  margin-top: 20px;
+}
+
+/* Oea.svg Text */
+.header-21-sub .name {
+	color:#7f8c8d;
+	font-size:64px;
+	font-weight:bold;
+}
+
+.header-21-sub .detail {
+  text-align: center;
+  font-size: 16px;
+  color: #7f8c8d;
+}
+
+/* Hollow Button */
+
+.header-21-sub .btn {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 7px 26px 8px;
+  background: none;
+  font-size: 15px;
+  font-weight: 800;
+  border: 2px solid #e45136;
+  color: #e45136;
+  height: auto;
+  line-height: 22px;
+  border-radius : 32px;
+}
+
+.header-21-sub .btn:hover {
+	  background: #e45136;
+  color: #ffffff;
+
+}
+
+/* Github button */
+
+.github {
+	margin-top:20px;
+}
+
+/* Footer */
+
+.bg-dark-midnight-blue {
+	background-color: #233140;
+}
+
+.footer-3 .brand {
+  font-size: 18px;
+}
+
+.content-5 {
+   padding-bottom: 0px; 
+}
+
+.content-11-override {
+  background: rgba(236, 240, 241, 0.5)!important;
+}
+
+
+

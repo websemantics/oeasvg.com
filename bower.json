@@ -1,0 +1,30 @@
+{
+  "name": "Oeasvg.com",
+  "version": "1.0",
+  "homepage": "http://oeasvg.com",
+  "authors": [
+    "Adnan Sagar, PhD <adnan@websemantics.ca>"
+  ],
+  "description": "Website for Oea.svg Framework",
+  "keywords": [
+    "browser",
+    "oea",
+    "oea.svg",
+    "browser.js",
+    "hotdraw.js",
+    "svg",
+    "javascript",
+    "js"
+  ],
+  "dependencies": {
+    "Oea.svg": "*",
+    "Hotdraw.js": "*",
+    "Browserjs": "*"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="spaceship" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="271px" height="271px"
+	 viewBox="0 0 271 271" enable-background="new 0 0 271 271" xml:space="preserve">
+<g>
+	<polygon fill="#F2F2F2" points="68.101,241 136.201,271 136.201,271 136.201,135.5 136.201,30.5 68.101,0 68.101,0 68.101,135.5 	
+		"/>
+	<polygon fill="#D4D7DA" points="68.101,241 0,271 0,271 0,135.5 0,30.5 68.101,0 68.101,0 68.101,135.5 	"/>
+	<polygon fill="#D4D7DA" points="204.5,241 136.399,271 136.399,271 136.399,135.5 136.399,30.5 204.5,0 204.5,0 204.5,135.5 	"/>
+	<polygon fill="#F2F2F2" points="202.899,241 271,271 271,271 271,135.5 271,30.5 202.899,0 202.899,0 202.899,135.5 	"/>
+</g>
+<polygon fill="#3C9FC6" points="68.101,16.8 68.1,16.799 15.977,116.799 68.101,116.799 "/>
+<path fill="#E58B0A" d="M68.101,130.5c-29.038,0-52.578,22.386-52.578,50s23.54,50,52.578,50V130.5z"/>
+<rect x="154.862" y="80.5" fill="#CB4A3F" width="48.037" height="100"/>
+<rect x="202.899" y="80.5" fill="#DD655F" width="48.037" height="100"/>
+<polygon fill="#57B7E5" points="68.101,16.8 68.102,16.799 120.225,116.799 68.101,116.799 "/>
+<path fill="#F39C12" d="M67.874,130.5c29.038,0,52.577,22.386,52.577,50s-23.54,50-52.577,50V130.5z"/>
+</svg>
