@@ -4,8 +4,6 @@ Website for [Oea.svg Framework](http://oeasvg.com), [Hotdraw.js](https://github.
 
 ![Oea.svg](https://raw.githubusercontent.com/websemantics/oeasvg.com/master/img/oea-svg.png)
 
-OEA.SVG
-
-## Author
+## Copyright
 
 [Web Semantics, Inc.](http://websemantics.ca/)
