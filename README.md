@@ -13,6 +13,33 @@ All notable changes to this project will be documented in this file as per [Keep
 #### Added
 - Update and fixing few bugs
 
+# Install
+
+1- Clone this repo:
+
+```
+git clone https://github.com/websemantics/oeasvg.com
+```
+
+1- Install Bower dependencies:
+
+```
+bower install
+```
+
+```
+cd bower_components/Hotdraw.js
+
+bower install
+```
+
+```
+cd bower_components/Browserjs
+
+bower install
+```
+
+> This should be fixed as bower dependencies should be used by all packages
 
 ## Copyright
 
